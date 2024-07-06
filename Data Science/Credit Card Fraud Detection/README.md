@@ -1,4 +1,6 @@
-# Credit Card Fraud Detection using Machine Learning
+# Credit Card Fraud Detection
+![image](https://github.com/Midhun-S-Nair/AspireNex/assets/167676461/3b03779a-6903-4e9a-8450-8b469ce83f7e)
+
 
 This project aims to detect fraudulent credit card transactions using machine learning techniques. It involves building and evaluating models to identify fraudulent transactions from a dataset.
 
@@ -40,18 +42,8 @@ To run the code locally, follow these steps:
 2. Install the necessary dependencies (numpy, pandas, scikit-learn, imbalanced-learn, etc.).
 3. Open the Jupyter Notebook credit_card_fraud_detection.ipynb and execute the cells.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Dataset sourced from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
-- Inspiration and guidance from tutorials and documentation resources.
-
 ## Contact
 
 For any questions or feedback, feel free to reach out:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-This is the readme file format of another project. create a similar readme for this titanic project
+- Email: midhunsnairr@gmail.com
+- LinkedIn: [Midhun S Nair](https://linkedin.com/in/midhunsnair)
