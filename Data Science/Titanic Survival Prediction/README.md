@@ -25,14 +25,14 @@ The steps involved in this project include:
 ## File Descriptions
 
 - Titanic.ipynb: Jupyter Notebook containing the project code.
-- .csv: Dataset used for training and testing.
+- titanic.csv: Dataset used for training and testing.
 
 ## Getting Started
 
 To run the code locally, follow these steps:
 1. Clone this repository.
-2. Install the necessary dependencies (numpy, pandas, scikit-learn, imbalanced-learn, etc.).
-3. Open the Jupyter Notebook CCFD.ipynb and execute the cells.
+2. Install the necessary dependencies (numpy, pandas, scikit-learn, etc.).
+3. Open the Jupyter Notebook Titanic.ipynb and execute the cells.
 
 ## Contact
 
