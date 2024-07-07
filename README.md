@@ -1,5 +1,8 @@
 # AspireNex
 
+![image](https://github.com/Midhun-S-Nair/AspireNex/assets/167676461/1ab78e0f-a2eb-4d85-94b8-136674c0cc9c)
+
+
 ## Projects
 
 This repository contains multiple projects related to Data Science
