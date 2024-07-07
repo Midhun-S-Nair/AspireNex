@@ -15,6 +15,7 @@ The steps involved in this project include:
 2. Handling class imbalance using SMOTE (Synthetic Minority Over-sampling Technique).
 3. Splitting the dataset into training and testing sets.
 4. Training models and evaluating performance using metrics like precision, recall, and F1-score.
+5. Improving the results using Under-Sampling
 
 ## Results
 
@@ -28,6 +29,11 @@ The steps involved in this project include:
 - Recall: 92%
 - F1 Score: 95%
 
+### Results after Under-Sampling
+- Precision: 97%
+- Recall: 90%
+- F1 Score: 93%
+  
 The Random Forest model showed superior performance due to its ability to capture complex patterns in the data.
 
 ## File Descriptions
