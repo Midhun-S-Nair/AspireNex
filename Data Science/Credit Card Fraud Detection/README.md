@@ -32,15 +32,15 @@ The Random Forest model showed superior performance due to its ability to captur
 
 ## File Descriptions
 
-- credit_card_fraud_detection.ipynb: Jupyter Notebook containing the project code.
-- credit_card_data.csv: Dataset used for training and testing.
+- CCFD.ipynb: Jupyter Notebook containing the project code.
+- creditcard.csv: Dataset used for training and testing.
 
 ## Getting Started
 
 To run the code locally, follow these steps:
 1. Clone this repository.
 2. Install the necessary dependencies (numpy, pandas, scikit-learn, imbalanced-learn, etc.).
-3. Open the Jupyter Notebook credit_card_fraud_detection.ipynb and execute the cells.
+3. Open the Jupyter Notebook CCFD.ipynb and execute the cells.
 
 ## Contact
 
