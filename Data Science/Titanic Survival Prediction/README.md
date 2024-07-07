@@ -13,8 +13,8 @@ The steps involved in this project include:
 2. Handling missing values and converting categorical features to numeric.
 3. Splitting the dataset into training and testing sets.
 4. Training models and evaluating performance using metrics like precision, recall, and F1-score.
-5. Validating the model with Cross-Validation.
-6. Analyze the importance of the features to understand which features are driving the predictions.
+5. Analyze the importance of the features to understand which features are driving the predictions.
+6. Validating the model with Cross-Validation.
 
 ## Results
 
@@ -22,12 +22,10 @@ The steps involved in this project include:
 - Recall: 100%
 - F1 Score: 100%
 
-The Random Forest model showed superior performance due to its ability to capture complex patterns in the data.
-
 ## File Descriptions
 
-- CCFD.ipynb: Jupyter Notebook containing the project code.
-- creditcard.csv: Dataset used for training and testing.
+- Titanic.ipynb: Jupyter Notebook containing the project code.
+- .csv: Dataset used for training and testing.
 
 ## Getting Started
 
